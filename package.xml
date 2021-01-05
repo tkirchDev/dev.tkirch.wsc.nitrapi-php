@@ -5,7 +5,7 @@
 		<packagename language="de"><![CDATA["NitrAPI-PHP"-Bibliothek]]></packagename>
 		<packagedescription><![CDATA[Provides the "NitrAPI-PHP" library at the WSC.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[Stellt die "NitrAPI-PHP"-Bibliothek im WSC zur Verfügung.]]></packagedescription>
-		<version>3.1</version>
+		<version>3.1.0</version>
 		<date>2021-01-05</date>
 	</packageinformation>
 
@@ -24,5 +24,7 @@
 
 	<instructions type="install">
 		<instruction type="file"/>
+		<instruction type="language"/>
+		<instruction type="option"/>
     </instructions>
 </package>
