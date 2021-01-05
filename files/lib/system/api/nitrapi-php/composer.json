@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "./",
+        "prepend-autoloader": false
+    },
+    "require": {
+        "nitrado/nitrapi-php-lib": "~3.1"
+    }
+}
