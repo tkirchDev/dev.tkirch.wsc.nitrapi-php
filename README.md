@@ -1,16 +1,16 @@
-# dev.tkirch.wsc.nitrapi-php
+# dev.tkirch.wsc.nitrapi-php-lib
 
-Provides the "NitrAPI-PHP" library at the WSC.
+Titus version of the PHP SDK for the Nitrapi RESTful API.
 
 ## Docs
 
 To load the library you can use the following code:
 
 ```PHP
-require_once WCF_DIR.'lib/system/api/nitrapi-php/autoload.php';
+require_once WCF_DIR.'lib/system/api/nitrapi-php-lib/autoload.php';
 ```
 
-Or use the supplied Util class for the WSC.Note that here the access token is set by the user via the option "Long Term Token".
+Or use the supplied Util class for the WSC. Note that here the access token is set by the user via the option "Long Term Token".
 
 ```PHP
 use wcf\util\Nitrapi;
@@ -24,4 +24,4 @@ try {
 ```
 
 Everything else about NitrAPI-PHP can be found in the corresponding GitHub repository at the following URL:
-https://github.com/nitrado/NitrAPI-PHP
+https://github.com/TitusKirch/nitrapi-php-lib
