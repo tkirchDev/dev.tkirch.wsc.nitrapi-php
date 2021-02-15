@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com https://www.woltlab.com/XSD/tornado/language.xsd" languagecode="de">
+
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.nitrapi"><![CDATA[NitrAPI]]></item>
+
+		<item name="wcf.acp.option.nitrapi_access_token"><![CDATA[Langzeit Token]]></item>
+		<item name="wcf.acp.option.nitrapi_access_token.description"><![CDATA[Langzeit Token können unter <a href="https://server.nitrado.net/deu/developer/tokens" class="externalURL" rel="noopener noreferrer" style="">https://server.nitrado.net/deu/developer/tokens</a> erstellt werden.]]></item>
+	</category>
+
+</language>
