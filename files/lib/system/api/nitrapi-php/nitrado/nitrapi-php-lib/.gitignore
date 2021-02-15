@@ -1,7 +1,0 @@
-.idea/
-*.iml
-vendor/
-composer.phar
-composer.lock
-/examples/
-.DS_Store
