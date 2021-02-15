@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "./",
+        "prepend-autoloader": false
+    },
+    "require": {
+        "tituskirch/nitrapi-php-lib": "^4.0"
+    }
+}
